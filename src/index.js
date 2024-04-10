@@ -41,7 +41,3 @@ function clearPage() {
 }
 
 buildHome();
-
-export {
-    displayPage
-}
